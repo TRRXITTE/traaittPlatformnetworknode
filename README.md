@@ -10,5 +10,5 @@ This list can be found on our blockapi.traaittPlatform.com/node/list consumed in
 
 If you would like to add your public node to the list, please submit a Pull Request to do so. To avoid any possibility of displaying preference for one public node over another, please ensure that any additions are submitted in alphabetical order by the **name** property. Additionally, please ensure the first character of your node name is alphanumeric.
 
-Copyright (c) 2020, traaittPlatform Team
-Copyright (c) 2018-2019, The TurtleCoin Developers
+Copyright (c) 2020, TRRXITTE inc.
+Copyright (c) 2018-2019, TRTL TEAM
