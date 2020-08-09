@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "name": "Official US West traaittPlatform Node",
+      "url": "us-west.traaitt.com",
+      "port": 24496,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Official ASIA South East traaittPlatform Node",
+      "url": "asia-southeast.traaitt.com",
+      "port": 24496,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Official Europe West traaittPlatform Node",
+      "url": "europe-west.traaitt.com",
+      "port": 24496,
+      "ssl": false,
+      "cache": false
+    }
+  ]
+}
