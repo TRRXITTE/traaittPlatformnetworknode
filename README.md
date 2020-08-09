@@ -4,7 +4,7 @@
 
 JSON list of public daemons for traaittPlatform.
 
-This list can be found on our blockapi.traaittPlatform.com/node/list consumed in our application so you'll always have an up-to-date list of public nodes. To consume the list (mirror), URL: https://raw.githubusercontent.com/traaittplatform/traaittplatform-nodes/master/traaittplatform-nodes.json
+This list can be found on our blockapi.traaittPlatform.com/node/list consumed in our application so you'll always have an up-to-date list of public nodes. To consume the list (mirror), URL: https://raw.githubusercontent.com/TRRXITTE/traaittPlatformnetworknodes/master/traaittplatform-nodes.json
 
 ### Adding a New Node
 
