@@ -1,0 +1,60 @@
+{
+  "nodes": [
+    {
+      "name": "ASIA EAST traaittPlatform",
+      "url": "asia-east.trrxitte.com",
+      "port": 24496,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "ASIA NORTHEAST traaittPlatform",
+      "url": "asia-northeast.trrxitte.com",
+      "port": 24496,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "ASIA SOUTHEAST traaittPlatform",
+      "url": "asia-southeast.trrxitte.com",
+      "port": 24496,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "EUROPE WEST traaittPlatform",
+      "url": "europe.trrxitte.com",
+      "port": 24496,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "EUROPE WEST traaittPlatform",
+      "url": "europe-west.trrxitte.com",
+      "port": 24496,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "SOUTHAMERICA EAST traaittPlatform",
+      "url": "southamerica-east.trrxitte.com",
+      "port": 24496,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "US EAST traaittPlatform",
+      "url": "us-east.trrxitte.com",
+      "port": 24496,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "US WEST traaittPlatform",
+      "url": "us-west.traaitt.com",
+      "port": 24496,
+      "ssl": false,
+      "cache": false
+    }
+  ]
+}
